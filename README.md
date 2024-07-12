@@ -1,6 +1,6 @@
 # WebChatServer
 
-It is a `Chat Room server` made with signalR. It is a complete chat room application. It's backend written in signal r and frontend written in vannila js. You can find the client application [here](https://github.com/rd003/WebChat-Client)
+It is a `Chat Room server` made with signalR. It is a complete chat room application. It's backend written in `Signal R` and frontend written in `Vannila Js`. You can find the client application [here](https://github.com/rd003/WebChat-Client)
 
 ## Video Tutorial
 
