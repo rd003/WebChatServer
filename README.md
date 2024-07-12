@@ -17,4 +17,4 @@ You can find it's youtube tutorial [here](https://www.youtube.com/watch?v=XECRfp
 
 ## Screenshots
 
-![chatroom](https://github.com/rd003/WebChat-Client/blob/master/chatroom.jpg)
+![chatroom](https://github.com/rd003/WebChatServer/blob/master/chatroom.jpg)
